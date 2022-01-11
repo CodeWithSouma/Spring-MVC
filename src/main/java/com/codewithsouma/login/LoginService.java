@@ -1,4 +1,4 @@
-package com.codewithsouma.jee;
+package com.codewithsouma.login;
 
 public class LoginService {
 	public boolean validateUser(String user, String password) {
