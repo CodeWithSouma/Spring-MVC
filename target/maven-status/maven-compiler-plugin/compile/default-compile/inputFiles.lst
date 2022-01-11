@@ -1,2 +1,3 @@
-/home/souma/eclipse-workspace/Spring-MVC/src/main/java/webapp/LoginServlet.java
-/home/souma/eclipse-workspace/Spring-MVC/src/main/java/webapp/LoginService.java
+/home/souma/eclipse-workspace/Spring-MVC/src/main/java/com/codewithsouma/jee/LoginService.java
+/home/souma/eclipse-workspace/Spring-MVC/src/main/java/com/codewithsouma/springmvc/LoginController.java
+/home/souma/eclipse-workspace/Spring-MVC/src/main/java/com/codewithsouma/jee/LoginServlet.java

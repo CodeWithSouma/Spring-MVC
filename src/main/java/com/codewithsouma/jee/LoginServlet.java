@@ -1,4 +1,4 @@
-package webapp;
+package com.codewithsouma.jee;
 
 import java.io.IOException;
 
