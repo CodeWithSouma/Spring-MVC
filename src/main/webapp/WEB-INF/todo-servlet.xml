@@ -10,17 +10,18 @@
 	<context:component-scan
 		base-package="com.codewithsouma" />
 		
-		<!-- View Resolver -->
-	<bean
-		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
-		<property name="prefix">
-			<value>/WEB-INF/views/</value>
-		</property>
-		<property name="suffix">
-			<value>.jsp</value>
-		</property>
-	</bean>
-
 	<mvc:annotation-driven />
+	
+	<!-- View Resolver -->
+		<bean
+			class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+			<property name="prefix">
+				<value>/WEB-INF/views/</value>
+			</property>
+			<property name="suffix">
+				<value>.jsp</value>
+			</property>
+		</bean>
+	
 
 </beans>
